@@ -1,6 +1,8 @@
 catlang
 =======
 
+Andrew Nelis:
+
 Python implementation of the cat language ( http://www.cat-language.com ).
 
 I am not actively working on this, however there seems to be enough interest 
@@ -11,14 +13,16 @@ on github would be a good idea.
 
 Otherwise do with this as you will.
 
-Update!
--------
+Wayne Wiitanen:
 
-Wayne Wiitanen has contributed a large update:
+I am actively working on catlang
 
-* Implemented all cat words
+* Implemented almost all "standard" cat words
 * Namespaces
-* Importing modules
+* Importing modules and classes
+* Tag searching
+* All words (functions) documented
+* Configuration file
 
 Among other things.
 
